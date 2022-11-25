@@ -2,7 +2,9 @@
 The RHO Vision is many things to maqny people.
 - Object capability security
 - Trusted world computing.
-- obedience to the communicating process model with mathimatical [certainty
+- obedience to the communicating process model with mathimatical certainty
+- composable systems
+- higher order smart contracts
 - maximum parrolelism like nature.
 - cooperation at scale
 - collective intelligence
