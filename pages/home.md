@@ -1,4 +1,13 @@
 # [RHOvision Open Collective](https://opencollective.com/rchain-community) Community
+The RHO Vision is many things to maqny people.
+-Trusted wprld computing.
+- mathimatical certainty
+- maximum parrolelism like nature.
+- cooperation at scale
+- collective intelligence
+- addressing existential problems facing humanity
+- radical decentralization
+- 
 - operation and [governance](https://opencollective.com/rchain-community/conversations/governance-dpbvj0qz) of rholang networks (mainnet, rhobot.net, etc.)
 - Develop and operate the Rholang Open Source Software
 - a home for standardized rholang components and interoperability
