@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "cmark-gfm-js": "^1.1.7"
+  }
+}
