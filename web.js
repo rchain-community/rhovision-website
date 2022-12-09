@@ -1,6 +1,5 @@
 const http = require('http');
-var url = require('url');
-// var querystring = require('querystring');
+const url = require('url');
 const fs = require('fs');
 
 const requestListener = function (req, res) {
