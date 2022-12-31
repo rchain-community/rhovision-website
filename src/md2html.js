@@ -1,8 +1,7 @@
 // usage: node src/md2html.js pages/home.md >html/home.html
 let filename = process.argv[2]
 fs = require('fs')
-const header = `<img src="https://cdn.discordapp.com/attachments/1045332990949077022/1054465023533138020/Untitled_drawing.jpg" height=75>
-`
+const header = fs.readFileSync("src/header.htmlf","utf8")
 data = fs.readFileSync(filename, 'utf8')
 const footer = ""
 const markdown = data
