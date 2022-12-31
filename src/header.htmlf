@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 30px;
+    
+}
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+header nav ul li {
+    margin-right: 20px;
+}
+header nav ul li a {
+    color:aliceblue;
+    text decoration: none;
+    margin-right: 20px;
+}
+
+
+.indexpage{
+    margin-left: 85px;
+    margin-right: 300px;
+
+}
+
+.header img{
+margin-top: 100px;
+margin-left: 30px;
+border-radius: 35px;
+margin-bottom: 20px;
+}
+.header h1{
+    margin-left: 35px;
+    margin-bottom: 35px;
+    font-size: 35px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+}
+.header p{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 19px;
+    margin-bottom: 15px;
+    margin-left: 55px;
+}
+.section1 ul li{
+    margin-left: 71px;
+    margin-bottom: 11px;
+    width: -100px;
+}
+.header2 {
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 55px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.section2 ul li{
+    margin-left: 71px;
+    margin-bottom: 11px;
+    width: -100px;
+}
+.section3 h2{
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 55px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.section3 ul li{
+    margin-left: 71px;
+    margin-bottom: 11px;
+    width: -100px;
+}
+footer{
+    background-color: #333;
+    color: aliceblue;
+    padding: 10px;
+    text-align: center;
+}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+<link rel="stylesheet" href="/style/home.css">
+<title>RhoVision</title>
+    </head>
+    
+    <body>
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+<div class="indexpage">
+
+<div class="header">
+    <img src="/pictures/rhoVision.logo.jpg" alt="RhoVision logo" height="230">
+    <h1 class="heading"><a href="https://opencollective.com/rho-vision-community">RHOvision Open Collective Community</a> </h1>
+    <p>The RHO Vision is many things to many people.</p>
+</div>
