@@ -16,7 +16,7 @@
 yarn add cmark-gfm-js
 yarn install
 
-node md2html.js pages/filr.md >html/file.html
+node src/md2html.js pages/home.md >html/home.html
 ```
 ## Run
 ```
