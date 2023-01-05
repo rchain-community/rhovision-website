@@ -1,0 +1,111 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(242, 246, 247);
+    color: rgb(13, 92, 161);
+    padding: 11px;
+    
+    border: 1px solid rgb(7, 95, 132);
+    width: 100%;
+}
+.logopart {
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+.logopart p {
+    padding-left: 8px;
+    padding-right: 350px;
+    font-size: 27px;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(7, 95, 132);
+    
+}
+.logopart img{
+    border-radius: 40px;
+}
+
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+
+header nav ul li {
+    margin-right: 30px;
+    display: inline-block;
+    padding: 25px;
+    font-weight: bolder;
+    
+    
+}
+header nav ul li a {
+    color: rgb(7, 95, 132);
+    text-decoration: solid;
+    text-transform: uppercase;
+    font-size: 22px;
+    text-decoration: solid;
+    
+    
+}
+header nav ul li a:hover{
+    color: darkgreen;
+    transition: .4s;
+    transform: scale(1.2);
+
+}
+
+    
+
+.hero {
+    align-items: center;
+    padding-left: 100px;
+    padding-top: 35px;
+}
+ .part1 {
+    margin-left: 340px;
+    align-items: center;
+    padding-bottom: 35px;
+    
+}
+.part1 img {
+    border-radius: 13px;
+    margin-left: 40px;
+    
+    
+    
+}
+.part1 h1 {
+    padding: 25px;
+    font-weight: bold;
+    font-size: 45px;
+    
+}
+.part2 {
+    font-size: 20px;
+    margin-bottom: 55px;
+    margin-left: 377px;
+}
+
+
+
+
+footer {
+    background-color: rgb(131, 186, 207);
+    color: white;
+    padding: 9px;
+    text-align: center;
+    position: sticky;
+    top: 100%;
+    width: 100%;
+    
+  }
+
+
