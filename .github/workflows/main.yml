@@ -1,5 +1,8 @@
   name: Deploy
-  on: page_build:
+  on:
+    push:
+      branches:
+        - master
   uses: peaceiris/actions-gh-pages@v3
   with:
     github_token: ${{ secrets.GITHUB_TOKEN }}
