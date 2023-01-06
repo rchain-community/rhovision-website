@@ -1,7 +1,7 @@
 # Requirements
-- [ ] Run as a github site
+- [x] Run as a github site
 - [x] Serve markdown and html pages
-- [ ] Tell who we are
+- [x] Tell who we are
 - [ ] Onboard and support cooperators
     - How to participate (OC, discord, consider.it, github)
     - Using rev (metamask, links to actions)
