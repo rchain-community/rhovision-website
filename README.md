@@ -15,15 +15,4 @@
 - [ ] Markdown macros - macrhobot integration (future)
 - [ ] Personal, group and global pages (future)
 
-## Build
-```
-yarn add cmark-gfm-js
-yarn install
-
-node src/md2html.js pages/home.md >html/home.html
-```
-## Run
-```
-node web.jw
-```
-Browse to localhos:8080/?page=file
+https://rhovision.org/
