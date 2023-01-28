@@ -1,15 +1,19 @@
 # Requirements
-- [x] Run as a github site
 - [x] Serve markdown and html pages
-- [x] Tell who we are
+- [ ] Tell who we are
+    - [ ] OC content
+    - [ ] Original RChain content?
 - [ ] Onboard and support cooperators
     - How to participate (OC, discord, consider.it, github)
-    - Using rev (metamask, links to actions)
-- [ ] Active rholang text box like rgov
-- [ ] Rholang components: fields, code, pragma? in rholang directory
+    - new Discord? (Steve to setup, Peter + Steve admin)
+    - new Telegram (Peter to setup, Steve + Peter to admin)
+    - Using rev (metamask, links to actions - rgov component)
+- [ ] Active rholang text box like rgov (iframe or javascript code)
+    - [ ] Embedded Rholang components: fields, code, pragma? in rholang directory
 - [ ] On chain content
-- [ ] Markdown macros - macrhobot integration
-- [ ] Personal, group and global pages
+    - Rdrive (later)
+- [ ] Markdown macros - macrhobot integration (future)
+- [ ] Personal, group and global pages (future)
 
 ## Build
 ```
